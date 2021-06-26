@@ -1,0 +1,32 @@
+.image-with-result {
+  background-color: grey;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px;
+}
+
+.image-with-result li {
+  text-align: left;
+}
+
+.image-with-result li img {
+  margin-top: 10px;
+  border-radius: 20px;
+  min-height: 200px;
+  max-height: 600px;
+  min-width: none;
+  max-width: inherit;
+}
+
+.image-with-result h5 {
+  background-color: white;
+  border-radius: 10rem;
+  padding: 6px;
+}
+
+.image-with-result h5 b {
+  color: blue;
+}
+
+.image-with-result h5 span {
+  color: red;
+}
